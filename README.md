@@ -86,7 +86,7 @@ dt.predict([[5,6]])
 
 #### Perdicition:
 
-![image](https://github.com/shalini-venkatesan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118720291/b4215804-63b5-4313-a333-33cf947311f9)
+![image](https://github.com/shalini-venkatesan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118720291/d9bc8457-b351-4254-9030-b36e3e3b23e0)
 
 
 
